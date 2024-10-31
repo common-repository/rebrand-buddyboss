@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-11 13:44+0530\n"
+"PO-Revision-Date: 2021-02-11 17:29+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: blitz-bb-settings.php:104 blitz-bb-settings.php:106
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: blitz-bb-settings.php:114 blitz-bb-settings.php:124
+msgid "Hide the \""
+msgstr "Cache le \""
+
+#: blitz-bb-settings.php:114 blitz-bb-settings.php:118
+#: blitz-bb-settings.php:124
+msgid " - Rebrand\" menu item?"
+msgstr " - Élément de menu Rebrand \"?"
+
+#: blitz-bb-settings.php:118
+msgid "Show the \""
+msgstr "Montrez le \""
+
+#: blitz-bb-settings.php:209
+msgid "Rebrand"
+msgstr "Rebrand"
+
+#: blitz-wp-theme-class.php:241
+#, php-format
+msgid "The theme directory \"%s\" does not exist."
+msgstr "Le répertoire de thème \"% s\" n'existe pas."
+
+#: blitz-wp-theme-class.php:246
+msgid "Stylesheet is missing."
+msgstr "La feuille de style est manquante."
+
+#: blitz-wp-theme-class.php:259
+msgid ""
+"Error: The themes directory is either empty or doesn&#8217;t exist. Please "
+"check your installation."
+msgstr ""
+"Erreur: le répertoire des thèmes est vide ou n'existe pas. Veuillez vérifier "
+"votre installation."
+
+#: blitz-wp-theme-class.php:264
+msgid "Stylesheet is not readable."
+msgstr "La feuille de style n'est pas lisible."
+
+#: blitz-wp-theme-class.php:293
+#, php-format
+msgid ""
+"The theme defines itself as its parent theme. Please check the %s header."
+msgstr ""
+"Le thème se définit comme son thème parent. Veuillez vérifier l'en-tête% s."
+
+#: blitz-wp-theme-class.php:319
+#, php-format
+msgid ""
+"Template is missing. Standalone themes need to have a %1$s template file. <a "
+"href=\"%2$s\">Child themes</a> need to have a Template header in the %3$s "
+"stylesheet."
+msgstr ""
+"Le modèle est manquant. Les thèmes autonomes doivent avoir un fichier de "
+"modèle %1$s. Les <a href=\"%2$s\"> thèmes enfants </a> doivent avoir un en-"
+"tête de modèle dans la feuille de style %3$s."
+
+#: blitz-wp-theme-class.php:321
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+#: blitz-wp-theme-class.php:357
+#, php-format
+msgid "The parent theme is missing. Please install the \"%s\" parent theme."
+msgstr ""
+"Le thème parent est manquant. Veuillez installer le thème parent \"% s\"."
+
+#: blitz-wp-theme-class.php:384 blitz-wp-theme-class.php:403
+#, php-format
+msgid "The \"%s\" theme is not a valid parent theme."
+msgstr "Le thème \"% s\" n'est pas un thème parent valide."
+
+#: blitz-wp-theme-class.php:424
+msgid ""
+"This theme failed to load properly and was paused within the admin backend."
+msgstr ""
+"Ce thème n'a pas pu se charger correctement et a été mis en pause dans le "
+"backend d'administration."
+
+#: blitz-wp-theme-class.php:892
+msgid "Anonymous"
+msgstr "Anonyme"
+
+#: blitz-wp-theme-class.php:899
+msgid ", "
+msgstr ", "
+
+#: blitz-wp-theme-class.php:942
+msgid "Black"
+msgstr "Noire"
+
+#: blitz-wp-theme-class.php:943
+msgid "Blue"
+msgstr "Bleue"
+
+#: blitz-wp-theme-class.php:944
+msgid "Brown"
+msgstr "Brun Selle"
+
+#: blitz-wp-theme-class.php:945
+msgid "Gray"
+msgstr "Grise"
+
+#: blitz-wp-theme-class.php:946
+msgid "Green"
+msgstr "Verte"
+
+#: blitz-wp-theme-class.php:947
+msgid "Orange"
+msgstr "Orange"
+
+#: blitz-wp-theme-class.php:948
+msgid "Pink"
+msgstr "Rose"
+
+#: blitz-wp-theme-class.php:949
+msgid "Purple"
+msgstr "Violette"
+
+#: blitz-wp-theme-class.php:950
+msgid "Red"
+msgstr "Rood"
+
+#: blitz-wp-theme-class.php:951
+msgid "Silver"
+msgstr "Argent"
+
+#: blitz-wp-theme-class.php:952
+msgid "Tan"
+msgstr "Bronzer"
+
+#: blitz-wp-theme-class.php:953
+msgid "White"
+msgstr "Blanche"
+
+#: blitz-wp-theme-class.php:954
+msgid "Yellow"
+msgstr "Jaune"
+
+#: blitz-wp-theme-class.php:955
+msgid "Dark"
+msgstr "Foncée"
+
+#: blitz-wp-theme-class.php:956
+msgid "Light"
+msgstr "Lumière"
+
+#: blitz-wp-theme-class.php:957
+msgid "Fixed Layout"
+msgstr "Disposition fixe"
+
+#: blitz-wp-theme-class.php:958
+msgid "Fluid Layout"
+msgstr "Disposition fluide"
+
+#: blitz-wp-theme-class.php:959
+msgid "Responsive Layout"
+msgstr "Disposition réactive"
+
+#: blitz-wp-theme-class.php:960
+msgid "Blavatar"
+msgstr "Blavatar"
+
+#: blitz-wp-theme-class.php:961
+msgid "Photoblogging"
+msgstr "Photoblogging"
+
+#: blitz-wp-theme-class.php:962
+msgid "Seasonal"
+msgstr "Saisonnière"
+
+#: admin/blitz-bb-adminSettings.php:108 admin/blitz-bb-adminSettings.php:109
+#: admin/blitz-bb-adminSettings.php:124 admin/blitz-bb-adminSettings.php:125
+msgid "Rebrand BuddyBoss PRO"
+msgstr "Rebrand BuddyBoss PRO"
+
+#: admin/blitz-bb-adminSettings.php:143
+msgid "Settings updated successfully!"
+msgstr "Paramètres mis à jour avec succès!"
+
+#: admin/bzbb-settings-rebranding.php:2
+msgid "Rebrand BuddyBoss"
+msgstr "Rebrand BuddyBoss"
+
+#: admin/bzbb-settings-rebranding.php:12 admin/bzbb-settings-rebranding.php:19
+msgid "Branding"
+msgstr "l'image de marque "
+
+#: admin/bzbb-settings-rebranding.php:13
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/bzbb-settings-rebranding.php:20
+msgid "You can white label the theme as per your requirement."
+msgstr "Vous pouvez marquer le thème en blanc selon vos besoins."
+
+#: admin/bzbb-settings-rebranding.php:25
+msgid "Theme Name"
+msgstr "Nom du thème"
+
+#: admin/bzbb-settings-rebranding.php:33
+msgid "BuddyPanel Title"
+msgstr "Titre du BuddyPanel"
+
+#: admin/bzbb-settings-rebranding.php:41
+msgid "Theme Description"
+msgstr "Description du thème"
+
+#: admin/bzbb-settings-rebranding.php:49
+msgid "Developer / Agency"
+msgstr "Développeur / Agence"
+
+#: admin/bzbb-settings-rebranding.php:57
+msgid "Website URL"
+msgstr "URL de site web"
+
+#: admin/bzbb-settings-rebranding.php:66
+msgid "Primary Color"
+msgstr "Couleur primaire"
+
+#: admin/bzbb-settings-rebranding.php:76
+msgid "Menu Icon"
+msgstr "Icône de menu"
+
+#: admin/bzbb-settings-rebranding.php:127
+msgid "Hide License Menu"
+msgstr "Masquer le menu de licence"
+
+#: admin/bzbb-settings-rebranding.php:140
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: lmgr/AutoUpdater.php:60
+msgid "An error occour when try to identify the pluguin."
+msgstr "Une erreur se produit lorsque vous essayez d'identifier le plugin."
+
+#: lmgr/AutoUpdater.php:60 lmgr/AutoUpdater.php:63
+msgid "Try again"
+msgstr "Réessayer"
+
+#: lmgr/AutoUpdater.php:63
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Une erreur HTTP inattendue s'est produite lors de la demande d'API."
+
+#: lmgr/blitz-bb-licence.php:51 lmgr/blitz-bb-licence.php:52
+msgid "Rebrand BuddyBoss License"
+msgstr "Renommer la licence BuddyBoss"
+
+#: lmgr/blitz-bb-licence.php:137
+msgid "License Information"
+msgstr "Informations sur la licence"
+
+#: lmgr/blitz-bb-licence.php:257
+msgid "You have an active license."
+msgstr "Vous avez une licence active."
+
+#: lmgr/blitz-bb-licence.php:259
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+"Veuillez saisir la clé de licence de ce produit pour l'activer. Vous avez "
+"reçu une clé de licence lorsque vous avez acheté cet article."
+
+#: lmgr/blitz-bb-licence.php:272
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: lmgr/blitz-bb-licence.php:289
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: lmgr/blitz-bb-licence.php:291
+msgid "Activate"
+msgstr "Activer"
+
+#: lmgr/blitz-bb-licence.php:293
+msgid "Reset"
+msgstr "Réinitialiser"

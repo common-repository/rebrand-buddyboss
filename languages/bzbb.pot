@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-11 17:22+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blitz-bb-settings.php:104 blitz-bb-settings.php:106
+msgid "Save"
+msgstr ""
+
+#: blitz-bb-settings.php:114 blitz-bb-settings.php:124
+msgid "Hide the \""
+msgstr ""
+
+#: blitz-bb-settings.php:114 blitz-bb-settings.php:118
+#: blitz-bb-settings.php:124
+msgid " - Rebrand\" menu item?"
+msgstr ""
+
+#: blitz-bb-settings.php:118
+msgid "Show the \""
+msgstr ""
+
+#: blitz-bb-settings.php:209
+msgid "Rebrand"
+msgstr ""
+
+#: blitz-wp-theme-class.php:241
+#, php-format
+msgid "The theme directory \"%s\" does not exist."
+msgstr ""
+
+#: blitz-wp-theme-class.php:246
+msgid "Stylesheet is missing."
+msgstr ""
+
+#: blitz-wp-theme-class.php:259
+msgid ""
+"Error: The themes directory is either empty or doesn&#8217;t exist. Please "
+"check your installation."
+msgstr ""
+
+#: blitz-wp-theme-class.php:264
+msgid "Stylesheet is not readable."
+msgstr ""
+
+#: blitz-wp-theme-class.php:293
+#, php-format
+msgid ""
+"The theme defines itself as its parent theme. Please check the %s header."
+msgstr ""
+
+#: blitz-wp-theme-class.php:319
+#, php-format
+msgid ""
+"Template is missing. Standalone themes need to have a %1$s template file. <a "
+"href=\"%2$s\">Child themes</a> need to have a Template header in the %3$s "
+"stylesheet."
+msgstr ""
+
+#: blitz-wp-theme-class.php:321
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr ""
+
+#: blitz-wp-theme-class.php:357
+#, php-format
+msgid "The parent theme is missing. Please install the \"%s\" parent theme."
+msgstr ""
+
+#: blitz-wp-theme-class.php:384 blitz-wp-theme-class.php:403
+#, php-format
+msgid "The \"%s\" theme is not a valid parent theme."
+msgstr ""
+
+#: blitz-wp-theme-class.php:424
+msgid ""
+"This theme failed to load properly and was paused within the admin backend."
+msgstr ""
+
+#: blitz-wp-theme-class.php:892
+msgid "Anonymous"
+msgstr ""
+
+#: blitz-wp-theme-class.php:899
+msgid ", "
+msgstr ""
+
+#: blitz-wp-theme-class.php:942
+msgid "Black"
+msgstr ""
+
+#: blitz-wp-theme-class.php:943
+msgid "Blue"
+msgstr ""
+
+#: blitz-wp-theme-class.php:944
+msgid "Brown"
+msgstr ""
+
+#: blitz-wp-theme-class.php:945
+msgid "Gray"
+msgstr ""
+
+#: blitz-wp-theme-class.php:946
+msgid "Green"
+msgstr ""
+
+#: blitz-wp-theme-class.php:947
+msgid "Orange"
+msgstr ""
+
+#: blitz-wp-theme-class.php:948
+msgid "Pink"
+msgstr ""
+
+#: blitz-wp-theme-class.php:949
+msgid "Purple"
+msgstr ""
+
+#: blitz-wp-theme-class.php:950
+msgid "Red"
+msgstr ""
+
+#: blitz-wp-theme-class.php:951
+msgid "Silver"
+msgstr ""
+
+#: blitz-wp-theme-class.php:952
+msgid "Tan"
+msgstr ""
+
+#: blitz-wp-theme-class.php:953
+msgid "White"
+msgstr ""
+
+#: blitz-wp-theme-class.php:954
+msgid "Yellow"
+msgstr ""
+
+#: blitz-wp-theme-class.php:955
+msgid "Dark"
+msgstr ""
+
+#: blitz-wp-theme-class.php:956
+msgid "Light"
+msgstr ""
+
+#: blitz-wp-theme-class.php:957
+msgid "Fixed Layout"
+msgstr ""
+
+#: blitz-wp-theme-class.php:958
+msgid "Fluid Layout"
+msgstr ""
+
+#: blitz-wp-theme-class.php:959
+msgid "Responsive Layout"
+msgstr ""
+
+#: blitz-wp-theme-class.php:960
+msgid "Blavatar"
+msgstr ""
+
+#: blitz-wp-theme-class.php:961
+msgid "Photoblogging"
+msgstr ""
+
+#: blitz-wp-theme-class.php:962
+msgid "Seasonal"
+msgstr ""
+
+#: admin/blitz-bb-adminSettings.php:108 admin/blitz-bb-adminSettings.php:109
+#: admin/blitz-bb-adminSettings.php:124 admin/blitz-bb-adminSettings.php:125
+msgid "Rebrand BuddyBoss PRO"
+msgstr ""
+
+#: admin/blitz-bb-adminSettings.php:143
+msgid "Settings updated successfully!"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:2
+msgid "Rebrand BuddyBoss"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:12 admin/bzbb-settings-rebranding.php:20
+msgid "Branding"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:13
+msgid "Settings"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:21
+msgid "You can white label the theme as per your requirement."
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:26
+msgid "Theme Name"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:34
+msgid "BuddyPanel Title"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:42
+msgid "Theme Description"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:50
+msgid "Developer / Agency"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:58
+msgid "Website URL"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:67
+msgid "Primary Color"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:76
+msgid "Hide Help Menu"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:85
+msgid "Hide Tool Menu"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:94
+msgid "Theme Preview Image"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:104
+msgid "Menu Icon"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:157
+msgid "Hide License Menu"
+msgstr ""
+
+#: admin/bzbb-settings-rebranding.php:170
+msgid "Save Settings"
+msgstr ""
+
+#: lmgr/AutoUpdater.php:60
+msgid "An error occour when try to identify the pluguin."
+msgstr ""
+
+#: lmgr/AutoUpdater.php:60 lmgr/AutoUpdater.php:63
+msgid "Try again"
+msgstr ""
+
+#: lmgr/AutoUpdater.php:63
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:51 lmgr/blitz-bb-licence.php:52
+msgid "Rebrand BuddyBoss License"
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:137
+msgid "License Information"
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:257
+msgid "You have an active license."
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:259
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:272
+msgid "License Key"
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:289
+msgid "Deactivate"
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:291
+msgid "Activate"
+msgstr ""
+
+#: lmgr/blitz-bb-licence.php:293
+msgid "Reset"
+msgstr ""
